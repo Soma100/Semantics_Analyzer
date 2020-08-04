@@ -1,5 +1,5 @@
 # Sentiment-Analysis-of-Reviews-using-Machine-Learning-algorithms-on-Textual-data
-CSCI 59000 BIG DATA ANALYTICS PROJECT
+
 
 ## Description
 
